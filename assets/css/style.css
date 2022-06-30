@@ -58,6 +58,10 @@ body {
     color: #fafafa;
 }
 
+.name-container h2 {
+    color: #8a1743;
+}
+
 .main-name {
     font-size: 280%;
 }
@@ -73,6 +77,7 @@ body {
 
 .text-about, .text-skills {
     width: 550px;
+    color: whitesmoke;
 }
 
 .main, .skills-main {
@@ -106,3 +111,28 @@ body {
     margin-bottom: 45px;
 }
 
+#link-prject li {
+    text-decoration: none;
+    list-style: none;
+    color: whitesmoke;
+}
+
+#link-prject a{
+    text-decoration: none;
+    list-style: none;
+    color: whitesmoke;
+}
+
+#link-prject a:hover {
+    color: #8a1743;
+}
+
+#email-link a {
+    text-decoration: none;
+    list-style: none;
+    color: whitesmoke;
+}
+
+#email-link a:hover {
+    color: #8a1743;
+}
